@@ -10,3 +10,4 @@ Todas las versiones notables de este proyecto se documentan en este archivo.
 - Documentación base de arquitectura y requerimientos.
 - Esqueleto de workflow de CI/CD con GitHub Actions.
 - Configuración inicial de backend y frontend (package.json).
+- Prueba de flujo de Pull Request en GitHub.
